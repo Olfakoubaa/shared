@@ -52,4 +52,9 @@ public class LecturePGM {
 	   // read(data, 0, size);
 	    return data;
 	  }
+public static void main(String[] args) {
+
+	System.out.println("helloworld");
+	
+}
 }
